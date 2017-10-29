@@ -1,0 +1,12 @@
+html {
+  height: 100%
+}
+
+body {
+  height: 90%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url(sky.jpg);
+}
